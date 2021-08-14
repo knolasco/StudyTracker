@@ -1,0 +1,132 @@
+Topic,TimeSpent,TimeStart,TimeEnd,Description,Date
+D2DL,50.0,4/20/2021 13:03,4/20/2021 13:53,I read from 4.8 to 4.10. I am currently finishing 4.10. I learned about Numerical Instability and the importance of initializing parameters. 4.10 is having us practice building a model from the housing prices dataset from Kaggle.,2021-04-18
+HOML,50.0,4/20/2021 10:44,4/20/2021 11:34,I am building a deep MLP with the goal of achieving over 97% precision. I am practicing using the Sequential method of building the model. I am also getting more practicing with callbacks and tensorboard.,2021-04-20
+StudyTracker,50.0,11:52,12:42,I am working on visualizing my studying. ,2021-04-20
+StudyTracker,44.0,12:55,13:39,Fixed the plotting. I am working on making this into an app.,2021-04-20
+StudyTracker,50.0,14:09,14:59,I was able to make the groupby and aggregated barcharts.,2021-04-20
+School,60.0,17:16,18:16,I had to use the statsmodels package for a homework assignment. It was ok. I will keep using scikit-learn.,2021-04-20
+StudyTracker,60.0,10:42,11:42,I am working on getting a calendar to be highlighted with the dates that I studied. Part one of many for this little project.,2021-04-21
+StudyTracker,50.0,11:56,12:46,I am working on getting the seaborn plots to show up on the tkinter app. It is working so far but next I will try to get it to work with the dropdown.,2021-04-21
+StudyTracker,50.0,13:12,14:02,I am now working on getting entry fields to add new sessions. It is going well.,2021-04-21
+StudyTracker,50.0,14:16,15:06,Changed positioning of widgets from .grid to .place. It looks better but still not that great. I want to try to add some sort of timeline under the barplot.,2021-04-21
+StudyTracker,25.0,12:14,12:39,Trying to get the timeline to work. Also fixed a bug for when there is nothing inputted for this day,2021-04-22
+StudyTracker,25.0,13:01,13:26,Trying to fix a bug that keeps displaying the time spent after pressing the week option. Not sure how I will fix it.,2021-04-22
+HOML,50.0,15:44,16:34,I am going back to the previous chapters to do the exercises and refresh my memory. I am hoping to remember how to use K-means clustering to apply it to the LoL project.,2021-04-23
+HOML,50.0,10:26,11:16,Still working on CH 4 exercises. I am working on the exercise where we build the softmax regression with early stopping from scratch.,2021-04-24
+HOML,50.0,11:30,12:20,I finished the early stopping from scratch with batch gradient descent. I feel like I did understand what was going on which is good. Also it is cool to see that numpy can do so much. I am now working on the exercises in chapter 5 which involves Support Vector Machines.,2021-04-24
+HOML,50.0,12:55,13:45,"I am almost finished with the exercises for CH 5. I think doing these exercises is improving my understanding of these models. I definitely haven't seen these in a while so I think it is important to see again. At some point, I will switch to a different task. Perhaps I can continue the disney project.",2021-04-24
+HOML,15.0,14:15,14:30,Finished the exercises for CH 5. It was ok. I am kinda bored of the exercises right now so I will move onto something else. I think the disney project.,2021-04-24
+School,35.0,14:33,15:08,I'm going to work through the homework assignments and get them all over with. They seem pretty easy so I think I could finish it all today.,2021-04-24
+School,50.0,15:20,16:10,I finished the 6th homework assignment and am starting to work on the project. I think I can finish today. It is pretty simple.,2021-04-24
+School,10.0,12:50,13:00,Just did the survey and did my discussion posts.,2021-04-25
+School,25.0,11:21,11:46,Working on the project. I was able to correctly import the data and now I am exploring the data.,2021-04-26
+School,50.0,12:00,12:50,Still working on the project. Made two plots. I'm not sure what other plot I could do. Maybe a double kde plot.,2021-04-26
+School,25.0,13:34,13:59,"Working on the project still. I made the helper functions that will be used in this project. So far I have no issues, this is a pretty straight forward project.",2021-04-26
+School,50.0,16:18,17:08,Finished all the functions for the project and made sure they worked. Now I just need a conclusion and I am done.,2021-04-26
+School,50.0,17:30,18:20,"Ok, I made the final plot and am done with the project, I am just going to write my conclusion and be done with it.",2021-04-26
+School,20.0,18:36,18:56,Finished the project. I will turn it in another day. Might look back at it sometime in the future and maybe decide to change a few things. We'll see!,2021-04-26
+D2DL,50.0,14:10,15:00,Working on chapter 5. We are going over the little details of what goes on behind the scenes in deep learning. I think this should be helpful with my understand of neural nets. No new networks will be introduced in this chapter. It is just to understand what is happening.,2021-04-27
+InterviewPrep,20.0,21:33,21:53,I need to start working on my SQL knowledge. All I need to do is practice some problems and it should work out. I have plenty of time to get it done.,2021-04-27
+Tutoring,30.0,12:51,13:21,Working through Dara's work.,2021-04-28
+Tutoring,35.0,13:46,14:21,Finished getting ready for the session.,2021-04-28
+InterviewPrep,15.0,14:15,14:30,Working through leetcode problems.,2021-04-28
+InterviewPrep,20.0,15:05,15:25,More leetcode.,2021-04-28
+Tutoring,90.0,15:27,16:57,Finished tutoring Dara.,2021-04-28
+InterviewPrep,35.0,17:37,18:12,I bought the premium for leetcode so that I could have access to more practice problems. I am now working through them and hope to do a lot tonight.,2021-04-28
+InterviewPrep,50.0,19:20,20:10,Doing more SQL practice. Some are tricky and I plan on going over all the problems twice. Not sure if it will happen but we'll see.,2021-04-28
+InterviewPrep,45.0,20:18,21:03,Working through the practice problems. Going a little better.,2021-04-28
+StudyTracker,10.0,21:03,21:13,Renamed dive into deep learning so it is not so long. I will probably make these plots horizontal so it could fit the future subjects.,2021-04-28
+InterviewPrep,45.0,21:26,22:11,I'm done for today. I am too tired to focus well. I think it was a good study day but I hope to get a lot more done tomorrow.,2021-04-28
+InterviewPrep,50.0,10:44,11:34,Working through practice problems.,2021-04-29
+InterviewPrep,50.0,12:14,13:04,Working through SQL problems. I am feeling more comfortable in my ability to figure out the structure of a problem but sometimes I miss a few things. I think it is going well though.,2021-04-29
+Tutoring,120.0,14:40,16:40,Tutored Haily and Antonio.,2021-04-29
+InterviewPrep,50.0,16:56,17:46,More SQL,2021-04-29
+InterviewPrep,50.0,19:02,19:52,SQL problems. I learned about the GROUP_CONCAT function that does a lot of heavy lifting for us. I thought that was cool. I also learned about how to use SELECT statements to make a whole table.,2021-04-29
+InterviewPrep,50.0,20:12,21:02,More SQL practice. It is finally giving me questions that involve LIKE and REGEXP. I am excited to get more practice with that. I think I am ready for tomorrow.,2021-04-29
+InterviewPrep,50.0,07:20,08:10,More SQL practice.,2021-04-30
+InterviewPrep,30.0,08:27,08:57,More SQL practice. Feeling good about it.,2021-04-30
+InterviewPrep,60.0,13:18,14:18,Last session! I am 12 minutes away from the assessment. I think I got this.,2021-04-30
+Tutoring,30.0,13:42,14:12,Working on understanding Dara's homework.,2021-05-01
+Tutoring,50.0,14:39,15:29,Tricky problems for Dara,2021-05-01
+D2DL,25.0,12:09,12:34,Got sleepy after only reading 25 minutes. Not the best but I did learn. This is gonnna be a weird week for working but I will try to get as much done as I can.,2021-05-03
+D2DL,30.0,12:00,12:30,Finished reading chapter 5. It went pretty well. Moving onto chapter 6 but before starting I want to try to finish the disneyland project.,2021-05-06
+Disney,20.0,12:33,12:53,Going to try to finish this project soon. I shouldn't have just abandoned it because it is an interesting project that will be cool to share. ,2021-05-06
+Disney,30.0,13:24,13:54,I'm giving up on this project haha. I don't feel the drive to keep working on it and I shouldn't fight it. I want to work on the league of legends project because it interests me more and I can compare what I know now and my results with what I had before.,2021-05-06
+School,30.0,20:15,20:45,Finished the project and turned it in. Now I might work on this app and make it nicer.,2021-05-11
+LoL,50.0,12:59,13:49,I'm back! I am excited to be working on projects again. The goal is to redo the league of legends project using clustering and to do better than I did before.,2021-05-17
+LoL,50.0,14:07,14:57,More work on the project. I was able to remove some outliers for one part of the dataset and I am working on the next part.,2021-05-17
+LoL,50.0,09:52,10:42,"Working on doing the clustering algorithm. The inertia and silhouette score indicates that the clusters that were found aren't that great. I will try again with another clustering algorithm. Perhaps there isn't a reason to use unsupervised learning though, since we already know what the outcomes are. I will try again with k nearest neighbors.",2021-05-20
+LoL,50.0,11:00,11:50,"I did KNN and got an accuracy of 75% on the training set. I guess I should evaluate it on the validation and test set, but for now I am happy with that. I am planning on try every unsupervised learning algorithm that sklearn offers to see if any of them will fit the data well. This could be good practice.",2021-05-20
+LoL,50.0,11:41,12:31,I created the advantage column for the project and my theory was close to being true. I thought 20-25% of the games would be thrown and that is why the classifier was only 75% accurate but it is more along the lines of 13% of the games. The visuals are really cool and I am excited to make this into a neat kaggle notebook. I still hope to try all of the clustering algorithms just for the practice.,2021-05-21
+LoL,15.0,09:45,10:00,"Worked on a few more visualizations. I was just gonna get started on the clustering part of this, but gotta stop. I will do the clustering after this quick break.",2021-05-22
+LoL,50.0,09:40,10:30,"Working through the different clustering algorithms. It isn't looking to great for this first one, but it's for experimenting! So that's ok.",2021-05-24
+LoL,50.0,10:42,11:32,"I finished affinity propagation. It does not look good but that's ok. I also made a visualization for the kmeans which came out great I think. And I just finished the visualization for mean-shift, which also didn't do very well but I think that is ok. ",2021-05-24
+School,50.0,09:37,10:27,"Yesterday my first summer class started. It is pretty shitty timing because I am having a hard time focusing because of what is going on between me and syd. But I am starting to do the readings and posts today. I also have three hours of tutoring that will feel like they are getting in the way of my school work, but whatever. I will probably spend a lot of time getting this school work done today and tomorrow. Then I will have to look ahead and try to do the remaining work ahead of time.",2021-05-25
+School,40.0,10:39,11:19,More reading of chapter 1. It's boring but whatever. It's so hard to focus right now.,2021-05-25
+School,50.0,14:29,15:19,Finished my first post for the module and started reading chapter 3. I also read what the assignment involves and how it will be graded. I will keep working on this after I tutor.,2021-05-25
+School,25.0,16:33,16:58,Reading chapter 3.,2021-05-25
+School,25.0,10:57,11:22,They really fucked up the website today haha. I am hoping that we get a pass for the discussion posts because I definitely don't want to do it again. I'm switching to the league project now.,2021-05-26
+LoL,25.0,11:20,11:45,Doing Spectral Clustering now. It is taking a while to train. But I think it will look good because it works well for a small number of clusters.,2021-05-26
+LoL,50.0,11:59,12:49,Transferred my jupyter notebook to google colab because the clustering was taking too long to run on my cpu. It is good to know that this is an option! I am working on DBSCAN,2021-05-26
+School,50.0,10:38,11:28,Reading chapter 3 so that I could do the assignment. My goal is to begin the assignment and hopefully end it today. Then I could start working forward for next week's readings and just stay ahead of the class.,2021-05-27
+School,50.0,12:22,13:12,Still reading chapter 3.,2021-05-27
+School,20.0,18:51,19:11,Finished reading chapter 3. I'm too upset to try to work on the assignment. I feel like it should be easy to complete. I'll work on it tomorrow.,2021-05-27
+School,50.0,10:31,11:21,"Starting drafting the paper. It's annoying how ambiguous the paper is. This reminds me of the assignments we had in the first two classes of this program. I worried a lot about them but I always got good grades. I should worry less and just go with it. I will shower, change, and get back to work.",2021-05-29
+School,50.0,12:13,13:03,Working on the paper still. It feels weak but that is ok I guess. We'll see how tough of a grader he is after this first assignment. I imagine the next assignments will be easier once I know what he expects.,2021-05-29
+School,50.0,11:47,12:37,About to finish the paper. it is bullshit but whatever. I will also start reading the chapter for this week.,2021-05-31
+School,50.0,12:53,13:43,"Finished the paper, turned it in and finished my discussion replies. I am not working on watching the videos before jumping into the reading.",2021-05-31
+School,50.0,14:13,15:03,Reading chapter 5,2021-05-31
+School,50.0,16:45,17:35,Reading Chapter 5. Should be done reading by the next session.,2021-05-31
+School,30.0,17:43,18:13,Finished reading chapter 5,2021-05-31
+SQL,20.0,18:18,18:38,Did 2 problems on leetcode,2021-05-31
+School,50.0,10:25,11:15,Just finished the two discussion posts for today. I have tutoring coming up but after I will work on the assignment. Hopefully I can get a lot of it done today and finish it by tomorrow so that I could read for next week by Thursday. I want to be ahead so that the trip is not stressful.,2021-06-01
+School,25.0,17:04,17:29,Took a look at the assignment for this week. It looks like it is a lot of creativity. I found a good article to base my problem statement off of. This shouldn't be too bad. I will start tomorrow.,2021-06-01
+School,45.0,16:41,17:26,"Not much today. I wrote the project scope and am trying to do the deliverables but am stuck figuring out the difference between deliverables and milestones. Either way, I'll figure it out tomorrow. I am working at the Manhattan Beach library right now and it is really nice. I plan on coming here tomorrow once they open. I am very sad today. Syd and I broke up. So I will need to keep busy. That's about it.",2021-06-03
+School,50.0,10:12,11:02,"Finished the deliverables and milestones for the project. I need three more sections for part 1, then I can move onto part 2. I think I should be done with this assignment by today. Then I will work on replying to the discussion posts and move onto next week.",2021-06-04
+School,50.0,11:22,12:12,"Almost done with the assignment. I don't really wanna go back and change anything. This professor is not being available when we need him which is annoying. I am ok with not getting a 4.0 in this program. It would be cool but not necessary. All I need is the degree and to keep working with data. I will do a good job in this program, without a doubt, but my priority is to be job ready.",2021-06-04
+School,50.0,12:29,13:19,"I finished all of the things that are due for week 2. I am starting to look at the videos for week 3. I am starting to get hungry, so I will do one more session and call it a day. Eventually, I will prepare my lunch ahead of time so that I don't have to leave el segundo for lunch. I am basically trying to stimulate going into work.",2021-06-04
+School,50.0,13:31,14:21,Started reading chapter 6. It is a pretty easy chapter to digest. I will continue reading it tomorrow. I should finish it and start doing the discussion posts.,2021-06-04
+School,50.0,11:39,12:29,Reading chapter 6. I think I am almost at the end. Then I will work on the discussions and finally I will try to do the assignment.,2021-06-05
+School,50.0,12:50,13:40,"Finished reading the chapter and finished the first discussion post. Working on the second after this break and then will start thinking about the assignment. It probably won't be so bad. Again, no need to get a 4.0 here. Just want to pass.",2021-06-05
+School,50.0,14:01,14:51,"Finished and posted the discussion posts for week 3. I am confident that I can finish the assignment soon. Tomorrow may not be a good day, so I will try on Monday and then move on to week 4, which is my primary concern.",2021-06-05
+School,50.0,10:52,11:42,"Finished all of week 3. I am annoyed that the professor hasn't responded or graded anything. This program is so dumb. But whatever, I'll have a masters when Im through. I have less than a year to go which is crazy to think about. I am now working on week 4 stuff. The assignment is a powerpoint and shouldn't be too bad.",2021-06-07
+School,50.0,11:58,12:48,I decided not to read the chapter and just find the information necessary to complete the activities. I already wrote the first discussion post which did not need the book at all. I just finished reading a small part of the chapter for the second post. After this break I will do the second post.,2021-06-07
+School,50.0,13:06,13:56,Finished both discussion posts and am now working on the powerpoint for the assignment. I think it will be very easy. I am slowly getting the grades for the work I've done and so far it is good.,2021-06-07
+School,45.0,14:20,15:05,Finished all of the assignments for week 4. All I have to do is two discussion replies but I can do them when I get back from the trip!,2021-06-07
+LoL,50.0,11:30,12:20,Working on the report that I will post into Kaggle. I am excited to complete this project and post it.,2021-06-08
+LoL,50.0,13:22,14:12,Finished the preprocessing steps. Gonna work on the clustering algorithms now.,2021-06-08
+School,50.0,11:20,12:10,"Finished both discussion posts for week 5. I am working on the assignment now. I don't think I will finish today, but I will get a lot done forsure.",2021-06-21
+School,50.0,12:12,13:02,Skimming through some of the articles for this week's assignments. It is pretty dumb but I will work more on it tomorrow. I am pretty distracted today because I am gonna hang out with syd and I am nervous about it. We will see how it goes.,2021-06-21
+School,50.0,10:37,11:27,Working on the assignment for this week. About to finish the first exercise and then I'll move onto the second. Then I could work on next week's discussion posts and almost be done with this class. I would really like to finish it all this week because I am over it.,2021-06-22
+School,50.0,11:46,12:36,Finished everything for this week. I just have to do the discussion replies. I am now working on the next week's discussion posts. I seems like it will be easy. Then I need to do the internet activities and finally the final quiz. I hope to finish this week.,2021-06-22
+School,50.0,13:47,14:37,I am having a hard time focusing because I am so uninterested in this material. I am going to take a break to eat and then get back,2021-06-22
+School,50.0,10:34,11:24,Finished the two discussion posts for this week. I am working on the internet activities. They are pretty stupid but I feel like I could write enough bullshit.,2021-06-28
+School,50.0,11:44,12:34,Almost done with the activity for this week. Then I work on the final quiz and then I am done! I would just need to do two discussion replies per post but yeah.,2021-06-28
+School,35.0,12:48,13:23,Finished the assignment and the final. ,2021-06-28
+LoL,15.0,13:25,13:40,Finally back at it! I am working on getting the KMeans clustering plotted.,2021-06-28
+LoL,20.0,13:53,14:13,Worked on automating the clustering plots. Looks like it will work. I'll work more on it tomorrow.,2021-06-28
+LoL,50.0,11:50,12:40,Still working through all of the clustering algorithms. It is going well. Writing the class that would plot automatically was a great idea.,2021-06-29
+LoL,50.0,15:40,16:30,Finished all of the clusters that I had in the google colab notebook. I think there are some more to get through but I'll work on that on thursday,2021-06-29
+School,50.0,16:13,17:03,Finished the discussion post and am starting the assignment. It is coding so I am excited to do python work! ,2021-07-05
+School,50.0,11:18,12:08,Working on the assignment. For this week,2021-07-08
+School,50.0,09:50,10:40,"Working on the assignment. I know that I am doing a lot more than is asked, but I am enjoying it and I am looking forward to what the professor says about it. He will probably not say much tbh. But I am still enjoying it.",2021-07-09
+School,35.0,12:18,12:53,Still working on the assignment. I am basically done with the summary statistics of the data for JSON and CSV. I will work on formatting the print statements better next. I can do that while I am high tbh. I am going to get food now.,2021-07-09
+School,50.0,13:47,14:37,"Finished the CSV and JSON parts of this assignment. I am now reading about how to parse through the xml part. I won't be able to do it here because I don't have internet to install the xml package, but I may continue reading it just cause.",2021-07-09
+School,50.0,11:07,11:57,Still working on the assignment. I am moving onto the XML parsing. I was able to get the data into a dataframe and now I will just work to get the summary statistics to work.,2021-07-10
+School,50.0,12:22,13:12,Finished the xml portion. Now I am doing the excel file. It should be easy.,2021-07-10
+School,60.0,17:54,18:54,I was finishing up the assignment while watching movies. I should have kept a timer but I'll just say it was an hour.,2021-07-10
+School,30.0,12:47,13:17,Read chapter 6 of the textbook. I should probably be able to answer the discussion post after the movie.,2021-07-12
+School,45.0,13:54,14:39,Finished week 2 assignment and discussion posts.,2021-07-17
+School,50.0,14:14,15:04,Finished the discussion post and started on the assignment. It is pretty easy.,2021-07-19
+School,50.0,15:11,16:01,Finished the assignment for week 3.,2021-07-19
+School,50.0,13:57,14:47,Did the discussion post for week 4 and am working on the assignment. I was able to scrape all of the names from the website but now I need to do the next part.,2021-07-26
+School,50.0,15:00,15:50,Gathered all of the names. Now I am trying to figure out how to use this api. I think I figured it out but I want to see if I am doing it correctly.,2021-07-26
+School,50.0,10:58,11:48,Finished the assignment. I am going to work on making it an object or at least using functions. ,2021-07-27
+School,50.0,12:02,12:52,Finished converting the homework assignment to include a class and functions. Looks good!,2021-07-27
+School,50.0,13:05,13:55,Turned in the assignment. I switched to work on the kaggle project but it was running for too long to do anything. I then looked at jobs in the area. I am getting nervous and excited for the internship and eager to learn more and make money.,2021-07-27
+School,50.0,12:04,12:54,Working on the final project for the data access and transformation class. Working on scraping the data.,2021-08-11
+School,50.0,13:03,13:53,Still working on the project,2021-08-11
+School,50.0,14:03,14:53,Finished scraping the data.,2021-08-11
+School,35.0,15:03,15:38,Cleaning the data,2021-08-11
+School,50.0,17:37,18:27,"Cleaned the data, now working on graphing.",2021-08-11
+School,50.0,18:12,19:02,Finished the plotting.,2021-08-11
